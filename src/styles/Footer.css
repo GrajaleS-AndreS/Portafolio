@@ -1,0 +1,28 @@
+.Footer {
+    width: 100%;
+    padding: 16px;
+    background-color: #222;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    bottom: 0;
+}
+
+.Footer p {
+    margin: 0;
+}
+
+.Footer a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.Footer a:hover {
+    text-decoration: underline;
+}
